@@ -1,4 +1,4 @@
-# Gerador_De_arquivos_Biblioteca
+# Simulador de compras de livros
 
 Projeto elaborado para pratica da classe FILE.
 
