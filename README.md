@@ -2,7 +2,7 @@
 
 Projeto elaborado visando colocar em pratica conceitos estudados de POO.
 
-Pensando em buscar maneiras de obter uma baixa acoplagem para que o codigo se torna-se manutenivel, foi determinado que no pacote de entidades do projeto as classes teriam apenas atributos e metodos padão;
+Pensando em buscar maneiras de obter uma baixa acoplagem para que o codigo se torne manutenivel e mais flexivel, foi determinado que no pacote de entidades do projeto as classes teriam apenas atributos e metodos padão;
 
 e seriam instanciadas em uma classe que simula um banco de dados e armazena e inicializa as entidades criadas além de possuir metodos de acrescimo de novos itens e de recuperação dos mesmos;
 
